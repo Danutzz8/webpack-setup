@@ -33,3 +33,5 @@ Or
 npm install --save-dev html-webpack-plugin
 From <https://webpack.js.org/plugins/html-webpack-plugin/#installation> 
 
+ok
+
