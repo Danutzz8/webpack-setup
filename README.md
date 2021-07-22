@@ -31,7 +31,7 @@ From <https://github.com/webpack-contrib/css-loader#css-loader>
 yarn add html-loader html-webpack-plugin
 Or
 npm install --save-dev html-webpack-plugin
-From <https://webpack.js.org/plugins/html-webpack-plugin/#installation> 
+From <https://webpack.js.org/plugins/html-webpack-plugin/#installation> .
 
 ok
 
